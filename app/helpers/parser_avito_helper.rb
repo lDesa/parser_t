@@ -1,0 +1,2 @@
+module ParserAvitoHelper
+end
